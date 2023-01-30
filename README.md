@@ -1,7 +1,7 @@
-Java Maven Demo
+Java Proxy Instance Demo
 =====================
 
-Use maven for Java.
+Java的动态代理。
 
 How to run:
 
